@@ -1,0 +1,73 @@
+
+[3 페이지]
+
+• head meta 예시 : 네이버 검색에서 의공학과
+  <meta name="description" content="4차산업혁명 의료기기산업의 주역! 건양대학교 의료공과계열 의공학과 홈페이지입니다." >
+
+[4 페이지]
+
+• 이미지 속성
+  <img src="https://www.konyang.ac.kr/images/kor/common/top_logo.png" width=“165" height=“25“>
+
+[5 페이지]
+
+• 문단 태그<br><br>
+
+  <p>건양대학교</p>
+  <p>대학안내</p>
+
+  <br><br>
+
+  <p>학부,      소개</p>
+  <p>학부, 
+  소개</p>
+
+  <br><br>
+
+  <p>학부<br>소개</p>
+
+
+[7 페이지]
+
+• 이탤릭<br>
+  <i>건양대학교</i> <br>
+  <em>건양대학교</em> <br><br>
+
+• 굵은 글자<br>
+  <b>건양대학교</b> <br>
+  <strong>건양대학교</strong> <br><br>
+
+• 밑줄<br>
+  <u>건양대학교</u> <br><br>
+
+• 취소선<br>
+  <del>건양대학교</del> <br><br>
+
+• 형광펜<br>
+  <mark>건양대학교</mark> <br><br>
+
+
+[8 페이지]
+
+• 텍스트 링크<br><br>
+  <a href="https://www.konyang.ac.kr/" target="_blank">건양대학교</a>
+<br><br>
+
+• 이미지 링크<br><br>
+  <a href="https://www.konyang.ac.kr/" target="_blank"><img src="https://www.konyang.ac.kr/images/kor/common/top_logo.png" width=“165" height=“25“></a>
+
+
+[10 페이지]
+
+• 주황색 버튼<br><br>
+  <a href="“https://www.konyang.ac.kr/" target=“_blank“ style="padding:20px; background-color: #f66708; color:#ffffff; font-size:11pt; text-align:center;">건양대학교</a>
+<br><br><br>
+
+• 초록색 버튼<br><br>
+  <a href="“https://www.konyang.ac.kr/" target=“_blank“ style="padding:20px; background-color: #00b050; color:#ffffff; font-size:11pt; text-align:center; font-weight:bold; border-radius:7px; text-decoration:none;">건양대학교</a>
+<br><br><br>
+
+• 파랑색 버튼<br><br>
+  <p style="text-align:center;"><a href="“https://www.konyang.ac.kr/" target=“_blank“ style="padding:20px; background-color: #102eda; color:#ffffff; font-size:11pt; text-align:center; font-weight:bold; border-radius:30px; text-decoration:none;">건양대학교</a></p>
+
+
